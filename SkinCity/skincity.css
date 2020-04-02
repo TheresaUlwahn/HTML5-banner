@@ -1,0 +1,21 @@
+.banner {
+	display: flex;
+	width: 640px;
+	height: 320px;
+	background-color: #dcd3e7;
+	background-image: url("./assets/foam.png");
+	/* background-position: center; */
+	/* background-size: 50%; */
+}
+
+.exfoliate {
+	max-width: 10%;
+}
+
+svg {
+	width: 40%;
+	/* display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+	justify-content: right; */
+}
