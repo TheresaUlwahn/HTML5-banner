@@ -11,10 +11,12 @@ body {
 	justify-content: space-between;
 	width: 640px;
 	height: 320px;
-	/* background-color: #dcd3e7; */
 	background-image: url("./assets/foam.png");
 	background-position: center;
+	/* Uncomment down below if you want another background*/
+	/* Comment out row 15 in that case*/
 	/* background-position: unset; */
+	/* background-color: #dcd3e7; */
 }
 
 .imgLogo {
@@ -49,12 +51,9 @@ button :hover {
 	background-color: #fff;
 }
 
-
 .productImg {
 	margin: 60px 40px;
 	display: flex;
 	flex-direction: row;
-	/* width: 60px; 
-	height: 210px; */
 }
 
