@@ -11,9 +11,7 @@ Source HTML-file
 CSS/JavaScript-files
 Other assets
 
-## View it live
 
-file:///Users/theresaulwahn/Google%20Drive/1.%20MrsUcodes/HTML5-banner/SkinCity/index.html
 
 
 
