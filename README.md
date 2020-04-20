@@ -4,12 +4,12 @@ Developed a HTML5 ad which works on any modern smartphone, tablet or desktop web
 
 ## Required
 
--Preamble script 
--ClickTAG definition
--Manifest.json
--Source HTML-file
--CSS/JavaScript-files
--Other assets
+-Preamble script  
+-ClickTAG definition 
+-Manifest.json 
+-Source HTML-file 
+-CSS/JavaScript-files 
+-Other assets 
 
 
 
